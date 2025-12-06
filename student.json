@@ -1,0 +1,21 @@
+{
+    "name": "ashok",
+    "dob": "08-08-98",
+    "addresses": [
+        {
+            "type": "current",   
+            "doono": "2-16",
+            "street": "gara",
+            "city": "sklm",
+            "pin": 532405
+        },
+        {
+            "type": "perm",
+            "doono": "2-16",
+            "street": "gara",
+            "city": "sklm",
+            "pin": 532405
+        }
+    ],
+    "skills": ["java", "devops", "cloud"]  
+}

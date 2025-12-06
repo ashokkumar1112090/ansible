@@ -1,0 +1,41 @@
+- name: "ashok kumar"
+  dob: "09-09-98"
+  age: 25
+  addresses:
+    # Object
+  - doorNo: 4-32
+    street: "ashok nagar"
+    city: hyderabd
+    pin: 534565
+    type: current
+  
+  - doorNo: 4-32
+    street: "ashok nagar"
+    city: hyderabd
+    pin: 534565
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
+
+- name: "kiran"
+  dob: "01-01-01"
+  age: 21
+  addresses:
+    # Object
+  - doorNo: 4-32
+    street: "kirandol nagar"
+    city: hyderabd
+    pin: 534565
+    type: current
+  
+  - doorNo: 4-32
+    street: "kirandol nagar"
+    city: hyderabd
+    pin: 534565
+    type: perm
+  skills:
+  - java
+  - devops
+  - cloud
